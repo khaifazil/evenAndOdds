@@ -1,0 +1,2 @@
+# evenAndOdds
+practice go app
